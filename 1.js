@@ -3,6 +3,10 @@ var adConfig = {
     blockDomains: [
         'example.com',
         'test.com',
+        'xn--kcr14v.cc',
+        '小利.cc',
+        
+
     ],
     ads: [
         { text: '广告一', url: 'https://www.a.com', icon: '' },
